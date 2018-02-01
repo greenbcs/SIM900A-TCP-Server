@@ -1,2 +1,2 @@
 # SIM900A-TCP
-Use TCP protocol to transport SIM900A's date to server   
+Use TCP protocol to transport SIM900A's date to Mysql in server   
